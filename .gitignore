@@ -1,0 +1,6 @@
+# Local credentials and runtime state
+config.ini
+.selenium_cache/
+__pycache__/
+*.py[cod]
+*.log
