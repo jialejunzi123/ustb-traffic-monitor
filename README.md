@@ -2,6 +2,10 @@
 
 Windows 桌面悬浮窗，自动登录北科大用户自服务系统，显示免费流量总量、已用量和剩余量。默认每 60 秒刷新，可拖动位置；右键可立即刷新或退出。
 
+## 效果图
+
+![悬浮窗运行效果图](assets/screenshot.png)
+
 ## 启动
 
 1. 确认电脑已安装 Python 3.10 或更高版本（Windows 版，包含 Tkinter）和 Microsoft Edge。
